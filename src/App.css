@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: black;
+}
+.background-image {
+  background-image: url('images/ch4.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  color: white;
+}
+.overlay {
+  background: rgba(0, 0, 0, 0.5);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.nav-links a {
+  margin-right: 20px;
+  color: white;
+  text-decoration: none;
+}
+.nav-links a:hover {
+  text-decoration: underline;
+}
+.age-rating {
+  position: absolute; /* Ensure this stays positioned correctly */
+  bottom: 16px; /* Adjust as needed */
+  right: 16px; /* Adjust as needed */
+}
+
+/* styles.css atau di file CSS yang Anda gunakan */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
