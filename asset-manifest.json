@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ptriapriliano/static/css/main.40bde0eb.css",
-    "main.js": "/ptriapriliano/static/js/main.a66d9aa0.js",
+    "main.css": "/ptriapriliano/static/css/main.be0347e9.css",
+    "main.js": "/ptriapriliano/static/js/main.f625f5db.js",
     "static/js/453.f0cb673c.chunk.js": "/ptriapriliano/static/js/453.f0cb673c.chunk.js",
     "static/media/sma5.jpg": "/ptriapriliano/static/media/sma5.601c356ba52cf7c45a76.jpg",
     "static/media/fa-solid-900.ttf": "/ptriapriliano/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
@@ -35,12 +35,12 @@
     "static/media/fa-v4compatibility.ttf": "/ptriapriliano/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/ptriapriliano/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/ptriapriliano/index.html",
-    "main.40bde0eb.css.map": "/ptriapriliano/static/css/main.40bde0eb.css.map",
-    "main.a66d9aa0.js.map": "/ptriapriliano/static/js/main.a66d9aa0.js.map",
+    "main.be0347e9.css.map": "/ptriapriliano/static/css/main.be0347e9.css.map",
+    "main.f625f5db.js.map": "/ptriapriliano/static/js/main.f625f5db.js.map",
     "453.f0cb673c.chunk.js.map": "/ptriapriliano/static/js/453.f0cb673c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40bde0eb.css",
-    "static/js/main.a66d9aa0.js"
+    "static/css/main.be0347e9.css",
+    "static/js/main.f625f5db.js"
   ]
 }
